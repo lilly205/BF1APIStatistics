@@ -1,0 +1,14 @@
+Thank you for checking out my BF1 Statistics Application! V1.0
+
+TUTORIAL: If you are unfamiliar with gaming or do not have an account to check stats of
+1. Upon loading the application, you are greeted by the player search bar
+2. Enter either "Norey" or "MugsTV" and select the PC platform on the dropdown menu to the right
+3. Click submit
+4. After it finishes loading, you will see the general player stats.
+(Bonus) If the player has improved/descreased his/her stats since last checking, there will be either a green or red arrow next to the stat. 
+5. Clicking on the bar on the left side of the screen will open the navigation pane.
+6. Click on the Weapons button
+7. Here you will be able to check every weapon the player has used. You can sort by name, kills, kills per minute, and accuracy
+8. Reclick on the bar on the left and navigate to the In depth button. 
+9. Here there is an indepth analyzer of the last (10,20,30) matches that the player has participated in. You may check on the win/loss, kills/deaths, and score/minute of each gamemode that was played.
+10. Click on the bar on the left one last time, finally hit the home button to go back to the search bar.

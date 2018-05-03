@@ -1,0 +1,43 @@
+C:\Users\Levi\Desktop\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.exe.config
+C:\Users\Levi\Desktop\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.exe
+C:\Users\Levi\Desktop\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.pdb
+C:\Users\Levi\Desktop\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.csprojResolveAssemblyReference.cache
+C:\Users\Levi\Desktop\BF1 Stats\BF1 Stats\obj\Debug\BF1_Stats.Form1.resources
+C:\Users\Levi\Desktop\BF1 Stats\BF1 Stats\obj\Debug\BF1_Stats.Properties.Resources.resources
+C:\Users\Levi\Desktop\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.csproj.GenerateResource.Cache
+C:\Users\Levi\Desktop\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.exe
+C:\Users\Levi\Desktop\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.pdb
+J:\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.exe.config
+J:\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.exe
+J:\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.pdb
+J:\BF1 Stats\BF1 Stats\obj\Debug\BF1_Stats.Form1.resources
+J:\BF1 Stats\BF1 Stats\obj\Debug\BF1_Stats.Properties.Resources.resources
+J:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.csproj.GenerateResource.Cache
+J:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.csproj.CoreCompileInputs.cache
+J:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.exe
+J:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.pdb
+E:\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.exe.config
+E:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.exe
+E:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.pdb
+E:\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.exe
+E:\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.pdb
+E:\BF1 Stats\BF1 Stats\obj\Debug\BF1_Stats.Form1.resources
+E:\BF1 Stats\BF1 Stats\obj\Debug\BF1_Stats.Properties.Resources.resources
+E:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.csproj.GenerateResource.Cache
+I:\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.exe.config
+I:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.exe
+I:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.pdb
+I:\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.exe
+I:\BF1 Stats\BF1 Stats\bin\Debug\BF1 Stats.pdb
+I:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.csprojResolveAssemblyReference.cache
+I:\BF1 Stats\BF1 Stats\obj\Debug\BF1_Stats.Form1.resources
+I:\BF1 Stats\BF1 Stats\obj\Debug\BF1_Stats.Properties.Resources.resources
+I:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.csproj.GenerateResource.Cache
+J:\BF1 Stats\BF1 Stats\obj\Debug\BF1_Stats.Resources.Weapons.resources
+E:\BF1 Stats\BF1 Stats\obj\Debug\BF1_Stats.Resources.Weapons.resources
+E:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.csprojResolveAssemblyReference.cache
+J:\BF1 Stats\BF1 Stats\bin\Debug\MRG.Controls.UI.dll
+E:\BF1 Stats\BF1 Stats\bin\Debug\MRG.Controls.UI.dll
+J:\BF1 Stats\BF1 Stats\obj\Debug\BF1 Stats.csprojResolveAssemblyReference.cache
+C:\Users\Levi\Desktop\BF1 Stats\BF1 Stats\bin\Debug\MRG.Controls.UI.dll
+C:\Users\Levi\Desktop\BF1 Stats\BF1 Stats\obj\Debug\BF1_Stats.Resources.Weapons.resources
